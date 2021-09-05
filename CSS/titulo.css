@@ -1,0 +1,14 @@
+#opacidad {
+    opacity: 2;
+    background-color: rgb(228, 228, 228);
+    height: 1cm;
+    width: 4cm;
+    position: relative;
+    top: 0.5cm;
+    left: 8cm;
+    color: rgb(131, 32, 32);
+    text-align: center;
+    padding-top: 1em;
+    border-radius: 5px;
+    
+  }

@@ -1,0 +1,75 @@
+body{
+   
+    /*mantiene la página estática, evitando el scroll*/
+    overflow: hidden;
+   
+    /*color de fondo con degradacion*/
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+   
+    /*tipo de letra y color*/
+    color: #000000;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+
+
+.ps{
+    /*largo*/
+width:10cm;
+/*ancho*/
+height: 0.8cm;
+/*redondear los bordes del input*/
+border-radius: 5px;
+border: 0px;
+color: black;
+    position: relative;
+    top: 1cm;
+    left: 8cm;
+}
+
+.ps2{
+    /*largo*/
+width:10cm;
+/*ancho*/
+height: 0.8cm;
+/*redondear los bordes del input*/
+border-radius: 5px;
+border: 0px;
+color: black;
+    position: relative;
+top: 2cm;
+left: 8cm;
+}
+/*BOTON*/
+.caja2{
+/*largo*/
+width:6cm;
+/*ancho*/
+height: 0.8cm;
+/*redondear los bordes del input*/
+border-radius: 5px;
+color: black;
+}
+
+#ps3{
+    position: relative;
+    top: -0.7cm;
+    left: 22cm;
+}
+
+#ps4{
+    position: relative;
+    top: 0.3cm;
+    left: 22cm;
+}
+
+.imprimir{
+    background-color: blanchedalmond;
+    width: 20cm;
+    height: 12cm;
+    border-radius: 5px;
+    position: relative;
+    top: 2cm;
+    left: 8cm;
+}
